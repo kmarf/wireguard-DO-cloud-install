@@ -21,9 +21,9 @@ sudo su
 Download and install our scripts ( Huge thanks to ugurrdemirel and [@vaughngx4](https://github.com/vaughngx4)):
 ```bash
 cd /etc/wireguard
-git clone https://github.com/kmarf/wireguard-oracle-cloud-install.git
-mv wireguard-oracle-cloud-install/* ./
-rm -rf wireguard-oracle-cloud-install
+git clone https://github.com/kmarf/wireguard-DO-cloud-install.git
+mv wireguard-DO-cloud-install/* ./
+rm -rf wireguard-DO-cloud-install
 ```
 
 Generate the config(follow the prompts, this will not start the server):
