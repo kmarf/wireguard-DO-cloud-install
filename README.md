@@ -1,7 +1,7 @@
-# WireGuard for Oracle Cloud
+# WireGuard for DO
 
-Wireguard VPN Setup for Oracle Cloud Instances  
-Oracle Cloud instances need some additional configuration to get WireGuard up and running as expected. Here is how we do that:
+Wireguard VPN Setup for DO Cloud Instances 
+DO Cloud instances need some additional configuration to get WireGuard up and running as expected. Here is how we do that:
 
 ## Please Note: 
 - The wireguard kernel mod ships with the latest Ubuntu image on Oracle Cloud.
