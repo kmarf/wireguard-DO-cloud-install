@@ -1,6 +1,6 @@
 # WireGuard Autoconfig for Digital Ocean Cloud Provider
 
-## Wireguard VPN Automated Setup Scripts for (on Ubuntu Droplets) <br>
+## Wireguard VPN Automated Setup Scripts (for Ubuntu Droplets) <br>
 ### Digital Ocean droplets need some additional configuration to get WireGuard up and running as expected. <br> 
 Here is how we do that:
 
